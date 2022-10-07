@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return <div className="App">React Weather Forecast</div>;
+  return <div className="App">React Weather Project</div>;
 }
 
 export default App;
